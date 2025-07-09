@@ -17,6 +17,11 @@
         "type": "link",
         "name": "Basics",
         "href": "/docs/basics"
+      },
+      {
+        "type": "link",
+        "name": "Museum",
+        "href": "/docs/museum"
       }
     ]
   },
